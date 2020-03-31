@@ -1,0 +1,10 @@
+<configuration>
+  <input>
+    <net-file value="spring_street_alternate.net.xml"/>
+    <route-files value="calibrated_existing_trips.trip.xml"/>
+  </input>
+  <output>
+    <full-output value="alternate_full_output.xml"/>
+    <tripinfo-output value="alternate_tripinfo.xml"/>
+  </output>
+</configuration>
